@@ -55,3 +55,7 @@ After setting the variable, you can run the deployment with the Sepolia network:
 ```shell
 npx hardhat ignition deploy --network sepolia ignition/modules/Counter.ts
 ```
+
+The deployed TAGAISTEEM contract is: 0x028fa1c6A7aB9f52a9f33d33e4AAfad367BD20B4
+
+The bridge address: 0x1E6314E6f00001d6586E05427F55B37d89a2d0fc
